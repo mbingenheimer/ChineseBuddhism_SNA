@@ -1,15 +1,24 @@
 # Social network analysis data for the study of Chinese Buddhist history
 
-The datasets provided here combine the data of various [Gaoseng zhuan 高僧傳](http://buddhistinformatics.dila.edu.tw/biographies/gis/) projects with the [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). The original data points were originally collected at the [Dharma Drum Institute of Liberal Arts](http://www.dila.edu.tw) with help from the [Chung-hwa Institute of Buddhist Studies](http://www.chibs.edu.tw/) and are available from there.
+The datasets provided here combine the raw data of various [Gaoseng zhuan 高僧傳](http://buddhistinformatics.dila.edu.tw/biographies/gis/) projects with the [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). The original data was collected at the [Dharma Drum Institute of Liberal Arts](http://www.dila.edu.tw) in collaboration with the [Chung-hwa Institute of Buddhist Studies](http://www.chibs.edu.tw/) and is still available there.
 
-The evolving datasets offered here are prepared in formats that allow immediate use in open source SNA tools (such as [Gephi](https://gephi.org)) and are the basis for an ongoing series of presentations, workshops and papers. If you find any errors in the data, or would like to create or contribute data on social networks related to the study of Buddhist history, please get in touch.
+The evolving datasets offered here are prepared for immediate use in open source SNA tools (such as [Gephi](https://gephi.org)) and are the basis for an ongoing series of presentations, workshops and papers. If you find any errors in the data, or would like to create or contribute data on social networks related to the study of Buddhist history, please get in touch.
 
-## Currently available
+## Currently available datasets
 Chinese Buddhist - Historical Social Network Dataset version 2019-11. (c.16,700 nodes (actors), and c.24,000 edges (connections)):
 * As .gephi project file [c.1.1MB] (Layouted with ForceAtlas2 (Scale:0.5, Gravity: 0.3, Edge Weight 0.0, Theta: 1.6), Colored by dynasty)).
 * As .gexf file [c.19 MB] (DIY layout).
 
+Unsure what to do with this? Try this [how-to](https://mbingenheimer.net/tools/socnet/how-to.html).
+
 <img alt="CB_HSNA2019_11" style="padding:5;border-width:0" src="CB_HSNA2019_11.jpg"/>
+
+## Articles
+For those interested in the structure of the Gaoseng zhuan data, and more information on how to use the dataset:
+
+* Marcus BINGENHEIMER. 2018. [“Who was ‘Central’ for Chinese Buddhist History? - A Social Network Approach.”](https://mbingenheimer.net/publications/bingenheimer.2018.whoWasCentral.pdf) _International Journal of Buddhist Thought and Culture_. Vol.28-2 (Dec. 2018): 45-67.
+
+* Marcus BINGENHEIMER, Jen-Jou HUNG, Simon WILES. 2011. ["Social Network Visualization from TEI Data."](http://llc.oxfordjournals.org/content/26/3/271.full?keytype=ref&ijkey=wLyXwiS5HkR3XR3) _Literary and Linguistic Computing_ 26(3), 2011, pp. 271-278.
 
 
  
