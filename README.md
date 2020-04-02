@@ -13,7 +13,7 @@ Chinese Buddhist - Historical Social Network Dataset version 2020-04. (c.17,200 
 
 Unsure what to do with this? Try this [how-to](https://mbingenheimer.net/tools/socnet/how-to.html).
 
-<img alt="CB_HSNA_2020_04" style="padding:5;border-width:0" src="CB_HSNA_2020_04.jpg"/>
+<img alt="CB_HSNA_2020_04" style="padding:5;border-width:0" src="CB_HSNA_2020-04.jpg"/>
 
 ## Articles
 For those interested in the structure of the Gaoseng zhuan data, and more information on how to use the dataset:
