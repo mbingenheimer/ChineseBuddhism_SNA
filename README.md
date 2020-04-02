@@ -7,13 +7,13 @@ The evolving datasets offered here are prepared for immediate use in open source
 Further supporting material can be found [here](https://mbingenheimer.net/tools/socnet/).
 
 ## Currently available datasets
-Chinese Buddhist - Historical Social Network Dataset version 2019-11. (c.16,700 nodes (actors), and c.24,000 edges (connections)):
-* As .gephi project file [c.1.1MB] (Layouted with ForceAtlas2 (Scale:0.5, Gravity: 0.3, Edge Weight 0.0, Theta: 1.6), Colored by dynasty)).
+Chinese Buddhist - Historical Social Network Dataset version 2020-04. (c.17,200 nodes (actors), and c.24,900 edges (connections)):
+* As .gephi project file [c.1.2MB] (Layouted with ForceAtlas2 (Scale:0.5, Gravity: 0.3, Edge Weight 0.0, Theta: 1.6) & Yifan Hu, Colored by dynasty)).
 * As .gexf file [c.19 MB] (DIY layout).
 
 Unsure what to do with this? Try this [how-to](https://mbingenheimer.net/tools/socnet/how-to.html).
 
-<img alt="CB_HSNA2019_11" style="padding:5;border-width:0" src="CB_HSNA2019_11.jpg"/>
+<img alt="CB_HSNA2020_04" style="padding:5;border-width:0" src="CB_HSNA2020_04.jpg"/>
 
 ## Articles
 For those interested in the structure of the Gaoseng zhuan data, and more information on how to use the dataset:
