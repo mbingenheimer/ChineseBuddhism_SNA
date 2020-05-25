@@ -1,4 +1,4 @@
-# Social network analysis data for the study of Chinese Buddhist history
+# Social network data for the study of Chinese Buddhist history
 
 The datasets provided here combine the raw data of various [Gaoseng zhuan 高僧傳](http://buddhistinformatics.dila.edu.tw/biographies/gis/) projects with the [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). The original data was collected at the [Dharma Drum Institute of Liberal Arts](http://www.dila.edu.tw) in collaboration with the [Chung-hwa Institute of Buddhist Studies](http://www.chibs.edu.tw/) and is still available there.
 
@@ -14,6 +14,10 @@ Chinese Buddhist - Historical Social Network Dataset version 2020-04. (c.17,200 
 Unsure what to do with this? Try this [how-to](https://mbingenheimer.net/tools/socnet/how-to.html).
 
 <img alt="CB_HSNA_2020_04" style="padding:5;border-width:0" src="CB_HSNA_2020-04.jpg"/>
+
+## Citation
+If you are using this dataset please cite:
+Marcus Bingenheimer 'Social network data for the study of Chinese Buddhist history' Ver.YYYY-mm. [https://github.com/mbingenheimer/ChineseBuddhism_SNA](https://github.com/mbingenheimer/ChineseBuddhism_SNA).
 
 ## Articles
 For those interested in the structure of the Gaoseng zhuan data, and more information on how to use the dataset:
