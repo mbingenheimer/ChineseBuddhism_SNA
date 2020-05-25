@@ -16,9 +16,9 @@ Unsure what to do with this? Try this [how-to](https://mbingenheimer.net/tools/s
 <img alt="CB_HSNA_2020_04" style="padding:5;border-width:0" src="CB_HSNA_2020-04.jpg"/>
 
 ## Citation
-If you are using this dataset please cite:
+If you are using this dataset please cite (replacing YYYY-MM with the version you use):
 
-     Marcus Bingenheimer 'Social network data for the study of Chinese Buddhist history' Ver.YYYY-mm. https://github.com/mbingenheimer/ChineseBuddhism_SNA.
+     Marcus Bingenheimer. ‘Social network data for the study of Chinese Buddhist history’ Ver.YYYY-MM. https://github.com/mbingenheimer/ChineseBuddhism_SNA.
 
 ## Articles
 For those interested in the structure of the Gaoseng zhuan data, and more information on how to use the dataset:
