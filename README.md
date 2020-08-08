@@ -2,7 +2,7 @@
 
 This repository provides social network data for the study of Chinese Buddhist history. The datasets combine the raw data of various [Gaoseng zhuan 高僧傳](http://buddhistinformatics.dila.edu.tw/biographies/gis/) projects with the [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). The original data was collected at the [Dharma Drum Institute of Liberal Arts](http://www.dila.edu.tw) in collaboration with the [Chung-hwa Institute of Buddhist Studies](http://www.chibs.edu.tw/) and is still available there.
 
-The evolving datasets offered here are prepared for immediate use in open source SNA tools (such as [Gephi](https://gephi.org)) and are the basis for an ongoing series of presentations, workshops and papers. If you find any errors in the data, or would like to create or contribute data on social networks related to the study of Buddhist history, please get in touch.
+The evolving datasets offered here are prepared for immediate use in open source SNA tools (such as [Gephi](https://gephi.org) or [Cytoscape](https://cytoscape.org/)) and are the basis for an ongoing series of presentations, workshops and papers. If you find any errors in the data, or would like to create or contribute data on social networks related to the study of Buddhist history, please get in touch.
 
 Further supporting material can be found [here](https://mbingenheimer.net/tools/socnet/).
 
