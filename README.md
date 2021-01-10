@@ -5,6 +5,7 @@ This repository provides social network data for the study of Chinese Buddhist h
 The evolving datasets offered here are prepared for immediate use in open source SNA tools (such as [Gephi](https://gephi.org) or [Cytoscape](https://cytoscape.org/)) and are the basis for an ongoing series of presentations, workshops and papers. If you find any errors in the data, or would like to create or contribute data on social networks related to the study of Buddhist history, please get in touch.
 
 Further supporting material can be found [here](https://mbingenheimer.net/tools/socnet/).
+Unsure what to do with this? Try this **[how-to](https://mbingenheimer.net/tools/socnet/how-to.html)**.
 
 ## Currently available datasets
 Historical Social Network of Chinese Buddhism version 2020-07. (c.17,450 nodes (actors), and c.31,900 edges (connections)):
