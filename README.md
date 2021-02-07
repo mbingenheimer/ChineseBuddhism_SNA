@@ -8,9 +8,10 @@ Further supporting material can be found [here](https://mbingenheimer.net/tools/
 Unsure what to do with this? Try this **[how-to](https://mbingenheimer.net/tools/socnet/how-to.html)**.
 
 ## Currently available datasets
-Historical Social Network of Chinese Buddhism version 2020-07. (c.17,450 nodes (actors), and c.31,900 edges (connections)):
+Historical Social Network of Chinese Buddhism version 2020-12. (17,815 nodes (actors), and c. 25770 connections (from c.32,520 edges):
 * As .gephi project file [c.1.2MB] (Layouted with ForceAtlas2 (Scale:0.5, Gravity: 0.2, Edge Weight 0.0, Theta: 1.7) & Yifan Hu)).
-* As .gexf file [c.19 MB] (DIY layout, colored for dynasty).
+* As .gexf file [c.21 MB] (DIY layout, colored for dynasty).
+* As .cys file [c. 2 MB] (for use in Cytoscape)
 
 Unsure what to do with this? Try this [how-to](https://mbingenheimer.net/tools/socnet/how-to.html).
 
@@ -19,7 +20,7 @@ Unsure what to do with this? Try this [how-to](https://mbingenheimer.net/tools/s
 ## Citation
 If you are using this dataset please cite:
 
-     Marcus Bingenheimer. 2020. ‘Historical Social Network of Chinese Buddhism’ Ver.2020-07. https://github.com/mbingenheimer/ChineseBuddhism_SNA.
+     Marcus Bingenheimer. 2020. ‘Historical Social Network of Chinese Buddhism’ Ver.2020-12. https://github.com/mbingenheimer/ChineseBuddhism_SNA.
 
 ## Articles
 For those interested in the structure of the Gaoseng zhuan data, and more information on how to use the dataset:
