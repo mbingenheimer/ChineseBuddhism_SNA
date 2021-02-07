@@ -1,6 +1,7 @@
-# Historical Social Network of Chinese Buddhism
+# Historical Social Network of Chinese Buddhism 漢傳佛教歷史社會網絡
 
 This repository provides social network data for the study of Chinese Buddhist history. The datasets combine the raw data of various [Gaoseng zhuan 高僧傳](http://buddhistinformatics.dila.edu.tw/biographies/gis/) projects with the [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). The original data was collected at the [Dharma Drum Institute of Liberal Arts](http://www.dila.edu.tw) in collaboration with the [Chung-hwa Institute of Buddhist Studies](http://www.chibs.edu.tw/) and is still available there.
+此倉庫提供關於漢傳佛教歷史的網絡資料。其資料集合并[高僧傳文學專案](http://buddhistinformatics.dila.edu.tw/biographies/gis/)與[法鼓山佛教人名規範資料庫](http://authority.dila.edu.tw/person/)的數據以便使用在網絡視覺和分析工具中。當前資料集的版本含17，700以上的人物。數據跨越兩千年的漢傳佛教史，從安世高到聖嚴法師。本資料採集專案由[法鼓山文理學院](http://www.dila.edu.tw)與[中華佛教研究所](http://www.chibs.edu.tw/)資助。
 
 The evolving datasets offered here are prepared for immediate use in open source SNA tools (such as [Gephi](https://gephi.org) or [Cytoscape](https://cytoscape.org/)) and are the basis for an ongoing series of presentations, workshops and papers. If you find any errors in the data, or would like to create or contribute data on social networks related to the study of Buddhist history, please get in touch.
 
