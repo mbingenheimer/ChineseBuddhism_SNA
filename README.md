@@ -18,7 +18,7 @@ Historical Social Network of Chinese Buddhism version 2020-12. (17,815 nodes (ac
 
 Unsure what to do with this? Try this [how-to](https://mbingenheimer.net/tools/socnet/how-to.html).
 
-<img alt="CB_HSNA_2020_04" style="padding:5;border-width:0" src="images/CB_HSNA_2020-12color.png"/>
+<img alt="CB_HSNA_2020_04" style="padding:5;border-width:0" src="images/CB_HSNA_2020-12color1.png"/>
 
 ## Citation
 If you are using this dataset please cite:
