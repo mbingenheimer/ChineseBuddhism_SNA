@@ -25,6 +25,7 @@ If you are using this dataset please cite:
 
 ## Articles
 For those interested in the structure of the Gaoseng zhuan data, and more information on how to use the dataset:
+* Marcus BINGENHEIMER. 2021. [“The Historical Social Network of Chinese Buddhism”](http://mbingenheimer.net/publications/bingenheimer.2021.historicalSocialNetworkOfChineseBuddhism.pdf) _Journal of Historical Network Research_ Vol. 5: 233-247.
 
 * Marcus BINGENHEIMER. 2020. [“On the Use of Historical Social Network Analysis in the Study of Chinese Buddhism: The Case of Dao’an, Huiyuan, and Kumārajīva”](https://mbingenheimer.net/publications/bingenheimer.2020.DaoanHuiyuanKumarajivaTriangle.pdf) _Journal of the Japanese Association of Digital Humanities_ Vol.5-2 (2020): 84-131. (Special Issue on “Buddhism and Technology”). DOI: https://doi.org/10.17928/jjadh.5.2_84.
 
