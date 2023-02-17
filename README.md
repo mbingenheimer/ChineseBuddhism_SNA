@@ -25,6 +25,8 @@ If you are using this dataset please cite:
 
 ## Articles
 For those interested in the structure of the Gaoseng zhuan data, and more information on how to use the dataset:
+* Marcus BINGENHEIMER. 2023. [“Miyun Yuanwu 密雲圓悟(1567–1642) and His Impact on 17th‑Century Buddhism”](https://mbingenheimer.net/publications/bingenheimer.2023.miyunYuanwu_networkView.pdf) _Religions_ Vol. 14, 248. pp.1-17. DOI: [https://doi.org/10.3390/rel140202485](https://doi.org/10.3390/rel14020248).
+
 * Marcus BINGENHEIMER. 2021. [“The Historical Social Network of Chinese Buddhism”](http://mbingenheimer.net/publications/bingenheimer.2021.historicalSocialNetworkOfChineseBuddhism.pdf) _Journal of Historical Network Research_ Vol. 5: 233-247.
 
 * Marcus BINGENHEIMER. 2020. [“On the Use of Historical Social Network Analysis in the Study of Chinese Buddhism: The Case of Dao’an, Huiyuan, and Kumārajīva”](https://mbingenheimer.net/publications/bingenheimer.2020.DaoanHuiyuanKumarajivaTriangle.pdf) _Journal of the Japanese Association of Digital Humanities_ Vol.5-2 (2020): 84-131. (Special Issue on “Buddhism and Technology”). DOI: https://doi.org/10.17928/jjadh.5.2_84.
