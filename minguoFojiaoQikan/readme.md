@@ -5,4 +5,6 @@ Preliminary identification of epistolary items was made possible by the [Catalog
 
 The dataset is made available under a [CC-BY 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
 
+How to cite: Bingenheimer, Marcus. 2025. "Epistolary Network of Republican Period Chinese Buddhism." Github: https://github.com/mbingenheimer/ChineseBuddhism_SNA/minguoFojiaoQikan.
+
 Contact: [Marcus Bingenheimer](https://mbingenheimer.net/publications/publications.html)
