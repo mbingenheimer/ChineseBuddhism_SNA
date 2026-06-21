@@ -5,8 +5,6 @@ Preliminary identification of epistolary items was made possible by the [Catalog
 
 The dataset is made available under a [CC-BY 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
 
-How to cite: 
-
 ## Citation
 If you are using this dataset please cite:
 
