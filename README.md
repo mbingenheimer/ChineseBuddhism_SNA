@@ -19,13 +19,15 @@ Unsure what to do with this? Try this **[how-to](https://mbingenheimer.net/tools
 * As .cys file [c. 2 MB] (for use in Cytoscape)
 * If you are using this dataset please cite:
 
-     Bingenheimer, Marcus. 2021. "Historical Social Network of Chinese Buddhism" Ver.2021-06. https://github.com/mbingenheimer/ChineseBuddhism_SNA.
+      Bingenheimer, Marcus. 2021. "Historical Social Network of Chinese Buddhism" Ver.2021-06. https://github.com/mbingenheimer/ChineseBuddhism_SNA.
 
 ## 2. Minguofojiao qikan letter network 民國佛教期刊書信網絡 version 2025 (1102 nodes (persons and organizations) and 2833 connections):
 * As .gephi project file [c. 330 KB]
 * As .gexf file [c. 2.1 MB]
 * Additional data: A spreadsheet with the letter titles, dates, original publication venue, and location in the 民國佛教期刊 collections.
+* If you are using this dataset please cite:
 
+      Bingenheimer, Marcus. 2025. "Epistolary Network of Republican Period Chinese Buddhism." Ver.2025. Github: https://github.com/mbingenheimer/ChineseBuddhism_SNA/minguoFojiaoQikan.
 
 
 ## Articles
