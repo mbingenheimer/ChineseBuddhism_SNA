@@ -1,5 +1,5 @@
-# Historical Social Networks for the Study of Chinese Buddhism 
-# 以歷史社會網絡研究漢傳佛教
+# Historical Networks for the Study of Chinese Buddhism 
+# 以歷史網絡研究漢傳佛教
 
 <img alt="CB_HSNA_2020_04" style="padding:5;border-width:0" src="images/1histChinBud1_all_small.png"/>
 
