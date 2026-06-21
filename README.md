@@ -26,7 +26,7 @@ Unsure what to do with this? Try this **[how-to](https://mbingenheimer.net/tools
 ## Citation
 If you are using this dataset please cite:
 
-     Bingenheimer, Marcus. 2021. ‘Historical Social Network of Chinese Buddhism’ Ver.2021-06. https://github.com/mbingenheimer/ChineseBuddhism_SNA.
+     Bingenheimer, Marcus. 2021. "Historical Social Network of Chinese Buddhism" Ver.2021-06. https://github.com/mbingenheimer/ChineseBuddhism_SNA.
 
 ## Articles
 For those interested in the structure of the Gaoseng zhuan data, and more information on how to use the dataset:
