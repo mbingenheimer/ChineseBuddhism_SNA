@@ -18,7 +18,7 @@ Unsure what to do with this? Try this **[how-to](https://mbingenheimer.net/tools
   - .gexf file [c.21 MB] (DIY layout, colored for dynasty).
   - .cys file [c. 2 MB] (for use in Cytoscape)
 * This dataset is made available under a [CC-BY 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
-* Please cite as:
+* Cite as:
 
       Bingenheimer, Marcus. 2021. "Historical Social Network of Chinese Buddhism" Ver.2021-06. https://github.com/mbingenheimer/ChineseBuddhism_SNA.
 
@@ -28,7 +28,7 @@ Unsure what to do with this? Try this **[how-to](https://mbingenheimer.net/tools
   - .gexf file [c. 2.1 MB]
 * Additional data: A spreadsheet with the letter titles, dates, original publication venue, and location in the 民國佛教期刊 collections.
 * This dataset is made available under a [CC-BY 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
-* Please cite as:
+* Cite as:
 
       Bingenheimer, Marcus. 2025. "Epistolary Network of Republican Period Chinese Buddhism." Ver.2025. Github: https://github.com/mbingenheimer/ChineseBuddhism_SNA/minguoFojiaoQikan.
 
