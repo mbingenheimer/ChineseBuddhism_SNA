@@ -13,9 +13,11 @@ Unsure what to do with this? Try this **[how-to](https://mbingenheimer.net/tools
 
 ## 1. Historical Social Network of Chinese Buddhism 漢傳佛教歷史社會網絡 version 2021-06 (18,130 nodes (actors), and c. 26,831 connections (from c. 33,977 edges):
 * The datasets combine the raw data of various [Gaoseng zhuan 高僧傳](https://github.com/DILA-edu/biographies) projects with the [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). Much of the data was originally collected at the [Dharma Drum Institute of Liberal Arts](http://www.dila.edu.tw) in collaboration with the [Chung-hwa Institute of Buddhist Studies](http://www.chibs.edu.tw/). 其資料集合并[高僧傳文學專案](https://github.com/DILA-edu/biographies)與[法鼓山佛教人名規範資料庫](http://authority.dila.edu.tw/person/)的數據以便使用在網絡視覺和分析工具中。當前資料集的版本含18000以上的人物。數據跨越兩千年的漢傳佛教史，從安世高到聖嚴法師。本資料採集專案由[法鼓山文理學院](http://www.dila.edu.tw)與[中華佛教研究所](http://www.chibs.edu.tw/)資助。
-* As .gephi project file [c.1.2MB] (Layouted with ForceAtlas2 (Scale:0.5, Gravity: 0.1, Edge Weight 0.0, Theta: 1.9) & Yifan Hu)).
-* As .gexf file [c.21 MB] (DIY layout, colored for dynasty).
-* As .cys file [c. 2 MB] (for use in Cytoscape)
+* Available as:
+  ** .gephi project file [c.1.2MB] (Layouted with ForceAtlas2 (Scale:0.5, Gravity: 0.1, Edge Weight 0.0, Theta: 1.9) & Yifan Hu)).
+  ** .gexf file [c.21 MB] (DIY layout, colored for dynasty).
+  ** .cys file [c. 2 MB] (for use in Cytoscape)
+* This dataset is made available under a [CC-BY 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
 * Please cite as:
 
       Bingenheimer, Marcus. 2021. "Historical Social Network of Chinese Buddhism" Ver.2021-06. https://github.com/mbingenheimer/ChineseBuddhism_SNA.
@@ -24,6 +26,7 @@ Unsure what to do with this? Try this **[how-to](https://mbingenheimer.net/tools
 * As .gephi project file [c. 330 KB]
 * As .gexf file [c. 2.1 MB]
 * Additional data: A spreadsheet with the letter titles, dates, original publication venue, and location in the 民國佛教期刊 collections.
+* This dataset is made available under a [CC-BY 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
 * Please cite as:
 
       Bingenheimer, Marcus. 2025. "Epistolary Network of Republican Period Chinese Buddhism." Ver.2025. Github: https://github.com/mbingenheimer/ChineseBuddhism_SNA/minguoFojiaoQikan.
