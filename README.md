@@ -24,8 +24,8 @@ Unsure what to do with this? Try this **[how-to](https://mbingenheimer.net/tools
 
 ## 2. Minguofojiao qikan letter network 民國佛教期刊書信網絡 version 2025 (1102 nodes (persons and organizations) and 2833 connections):
 * Available as:
- - .gephi project file [c. 330 KB]
- - .gexf file [c. 2.1 MB]
+  - .gephi project file [c. 330 KB]
+  - .gexf file [c. 2.1 MB]
 * Additional data: A spreadsheet with the letter titles, dates, original publication venue, and location in the 民國佛教期刊 collections.
 * This dataset is made available under a [CC-BY 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
 * Please cite as:
