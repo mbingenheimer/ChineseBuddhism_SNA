@@ -3,7 +3,7 @@
 
 <img alt="CB_HSNA_2020_04" style="padding:5;border-width:0" src="images/1histChinBud1_all_small.png"/>
 
-This repository provides social network data for the study of Chinese Buddhist history. The datasets combine the raw data of various [Gaoseng zhuan 高僧傳](https://github.com/DILA-edu/biographies) projects with the [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). The data was originally collected at the [Dharma Drum Institute of Liberal Arts](http://www.dila.edu.tw) in collaboration with the [Chung-hwa Institute of Buddhist Studies](http://www.chibs.edu.tw/).
+This repository provides social network data for the study of Chinese Buddhist history. The datasets combine the raw data of various [Gaoseng zhuan 高僧傳](https://github.com/DILA-edu/biographies) projects with the [Buddhist Person Name Authority](http://authority.dila.edu.tw/person/). Much of the data was originally collected at the [Dharma Drum Institute of Liberal Arts](http://www.dila.edu.tw) in collaboration with the [Chung-hwa Institute of Buddhist Studies](http://www.chibs.edu.tw/).
 
 此倉庫提供關於漢傳佛教歷史的網絡資料。其資料集合并[高僧傳文學專案](https://github.com/DILA-edu/biographies)與[法鼓山佛教人名規範資料庫](http://authority.dila.edu.tw/person/)的數據以便使用在網絡視覺和分析工具中。當前資料集的版本含18000以上的人物。數據跨越兩千年的漢傳佛教史，從安世高到聖嚴法師。本資料採集專案由[法鼓山文理學院](http://www.dila.edu.tw)與[中華佛教研究所](http://www.chibs.edu.tw/)資助。
 
