@@ -8,7 +8,7 @@ The dataset is made available under a [CC-BY 4.0 International License](https://
 ## Citation
 If you are using this dataset please cite:
 
-     Bingenheimer, Marcus. 2025. "Epistolary Network of Republican Period Chinese Buddhism." Github: https://github.com/mbingenheimer/ChineseBuddhism_SNA/minguoFojiaoQikan.
+     Bingenheimer, Marcus. 2025. "Epistolary Network of Republican Period Chinese Buddhism." Ver.2025. Github: https://github.com/mbingenheimer/ChineseBuddhism_SNA/minguoFojiaoQikan.
 
 ## Contact: 
 [Marcus Bingenheimer](https://mbingenheimer.net/publications/publications.html)
