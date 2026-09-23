@@ -34,8 +34,10 @@ Unsure what to do with this? Try this **[how-to](https://mbingenheimer.net/tools
 
 
 ## Articles
-For those interested in the structure of the Gaoseng zhuan data, and more information on how to use the dataset:
+For those interested in details of the datasets and more information on how to use them:
 
+* Marcus BINGENHEIMER, Lu HUANG: “ “Progressives” vs. “Conservatives” and their Intermediaries in the Epistolary Network of Republican-era Chinese Buddhism” _Review of Religion and Chinese Society_, pp.1-29. DOI: [https://doi.org/10.1163/22143955-12340046](https://doi.org/10.1163/22143955-12340046)
+* 
 * Marcus BINGENHEIMER. 2023. [“Miyun Yuanwu 密雲圓悟(1567–1642) and His Impact on 17th‑Century Buddhism”](https://mbingenheimer.net/publications/bingenheimer.2023.miyunYuanwu_networkView.pdf) _Religions_ Vol. 14, 248. pp.1-17. DOI: [https://doi.org/10.3390/rel140202485](https://doi.org/10.3390/rel14020248).
 
 * Marcus BINGENHEIMER. 2021. [“The Historical Social Network of Chinese Buddhism”](http://mbingenheimer.net/publications/bingenheimer.2021.historicalSocialNetworkOfChineseBuddhism.pdf) _Journal of Historical Network Research_ Vol. 5: 233-247.
